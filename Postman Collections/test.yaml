@@ -18,10 +18,10 @@ paths:
   /get:
     get:
       description: 'TODO: Add Description'
-      summary: First request!
+      summary: First request! copy
       tags:
       - Test Folder
-      operationId: First request!
+      operationId: First request! copy
       produces:
       - application/json
       parameters:
@@ -49,7 +49,7 @@ paths:
           headers: {}
         x-testShouldPass: true
         x-testEnabled: true
-        x-testName: First request!
+        x-testName: First request! copy
         x-testDescription: 'TODO: Add Description'
       x-operation-settings:
         CollectParameters: false
